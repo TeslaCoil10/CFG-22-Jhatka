@@ -1,0 +1,14 @@
+.backg3 {
+    background-image: url('../images/eventss.jpg'); 
+    /* background-color: #F0858E;  */
+    height: 92.489727038626vh;
+    overflow: auto;
+    background-position: center;
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+.container-fluid {
+    margin: 0 !important;
+    padding: 0 !important;
+}

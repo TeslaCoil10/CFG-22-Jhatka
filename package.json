@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "@super-effective/react-color-picker": "^2.1.2",
+    "react-color": "^2.19.3"
+  }
+}
